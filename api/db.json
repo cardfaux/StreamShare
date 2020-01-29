@@ -1,14 +1,10 @@
 {
-  "streams": [
-    {
-      "title": "MyStream",
-      "description": "First Test Stream",
-      "id": 1
-    },
-    {
-      "title": "MyStream",
-      "description": "First Test Stream",
-      "id": 2
-    }
-  ]
+	"streams": [
+		{
+			"title": "New Stream With UserID",
+			"description": "Stream with the UserID hopefully on the state from reedux",
+			"userId": "109195151375562767238",
+			"id": 3
+		}
+	]
 }
